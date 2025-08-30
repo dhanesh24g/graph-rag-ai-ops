@@ -81,8 +81,8 @@ The graph enables:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/GraphRAG-AIOps.git
-cd GraphRAG-AIOps
+git clone https://github.com/<your-username>/graph-rag-ai-ops.git
+cd graph-rag-ai-ops
 ```
 
 ### 2. Setup environment
@@ -109,7 +109,7 @@ python query.py    # Run sample GraphRAG queries
 
 ## 📂 Project Structure
 ```
-GraphRAG-AIOps/
+graph-rag-ai-ops/
 │── data/
 │   └── incident_logs.txt     # Synthetic dataset
 │── src/
