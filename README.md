@@ -81,8 +81,8 @@ The graph enables:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/GraphRAG-AIOps.git
-cd GraphRAG-AIOps
+git clone https://github.com/<your-username>/graph-rag.git
+cd graph-rag
 ```
 
 ### 2. Setup environment
